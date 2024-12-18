@@ -1,0 +1,19 @@
+{
+  "name": "wx-jsapi",
+  "version": "0.0.1",
+  "description": "Release the official jsapi-1.6.0 of WeChat to NPM.",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "weixin", "jsapi"
+  ],
+  "author": "bravomark",
+  "homepage": "https://github.com/bravomark/weixin-jsapi#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bravomark/weixin-jsapi.git"
+  },
+  "license": "MIT"
+}
